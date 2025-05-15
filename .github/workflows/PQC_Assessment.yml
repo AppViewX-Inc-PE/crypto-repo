@@ -27,7 +27,6 @@ jobs:
           repository: AppViewX-Inc-PE/assessment-tool
           path: assessment-tool-repo
       
-
       - name: Validate Input Folder
         run: |
           echo "Checking if input folder exists..."
